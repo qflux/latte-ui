@@ -1,29 +1,19 @@
 --[[
 ###### - LatteUI - #####
--  'a Love2D UX suite' -
+  'a Love2D UX suite'
 ------------------------
--	 	 by: @qfluxeu      -
 ------------------------
--      (c) 2016        -
--   Elmārs Āboliņš     -
-- License info:        -
--	 license.MD          -
 ------------------------
-- 	visit qflux.eu for -
-- more info            -
 ########################
 
 ###### - Module Info - #####
--     name: init.lua   		 -
 ----------------------------
--			func: initialize		 -
-- Latte environment 			 -
-- depending on settings    -
+ Latte environment
+ depending on settings
 ----------------------------
-- dependencies: 					 -
-- 1) none									 -
+ 1) none
 ----------------------------
-- author: @qfluxeu         -
+ author: @qfluxeu
 ############################
 ]]
 
